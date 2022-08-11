@@ -1,0 +1,51 @@
+/* common start  */
+body{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+}
+/* common end  */
+header{
+    background-color: #ddf3dd;
+}
+.custom-nav{
+
+}
+.logo{
+    width: 200px;
+}
+.menu{
+
+}
+.menu ul li a{
+    padding:0 20px !important;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000 !important;
+    
+} 
+.menu ul li a:hover{
+    color: #FD511A !important;
+}
+.btn_common{
+    margin-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    line-height: 19px;
+    background-color: #21B573;
+    border: none;
+    border-radius: 33px;
+    
+}
+.btn_h{
+    width: 104px;
+    height: 45px;
+}
+.btn_common:hover{
+    color:#ffffff;
+    background-color: #FD511A;
+
+}
+/* header end  */
